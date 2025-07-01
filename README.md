@@ -44,7 +44,7 @@ Atualmente, estou em transição de carreira para a área de **tecnologia**, ond
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviadalexandricunha/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/liviadalexandri)
 📧 liviadlxcunha@gmail.com  
-📱 (19) 98131-9691
+
 
 ---
 
