@@ -1,6 +1,6 @@
 # 👋 Olá, sou a Lívia D’Alexandri!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com formação em **Design Gráfico**, apaixonada por unir criatividade e tecnologia para desenvolver soluções inovadoras.
+Sou estudante de **Ciência de Dados** com formação prévia em **Design Gráfico**, apaixonada por unir criatividade e tecnologia para desenvolver soluções inovadoras.
 
 Atualmente, estou em transição de carreira para a área de **tecnologia**, onde aplico minha bagagem visual e experiência com atendimento ao cliente no desenvolvimento de sistemas. Estudo **Java Full Stack** no bootcamp da Generation Brasil, com foco em aplicações web modernas.
 
@@ -33,8 +33,8 @@ Atualmente, estou em transição de carreira para a área de **tecnologia**, ond
 
 ## 📚 Formação
 
-- 🎓 **Bootcamp Desenvolvedor Full Stack Java** – Generation Brasil (Conclusão: 06/2025)  
-- 🎓 **Análise e Desenvolvimento de Sistemas** – Universidade São Francisco (Conclusão: 12/2026)  
+- 🎓 **Ciência de Dados** – Wyden (Conclusão: 12/2027) 
+- 🎓 **Bootcamp Desenvolvedor Full Stack Java** – Generation Brasil (Conclusão: 06/2025)    
 - 🎓 **Design Gráfico** – ESAMC (Concluído em 2022)
 
 ---
