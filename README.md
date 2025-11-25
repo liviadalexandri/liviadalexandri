@@ -1,8 +1,8 @@
 # 👋 Olá, sou a Lívia D’Alexandri!
 
-Sou estudante de **Ciência de Dados** com formação prévia em **Design Gráfico**, apaixonada por unir criatividade e tecnologia para desenvolver soluções inovadoras.
+Sou estudante de Ciência de Dados com formação prévia em Design Gráfico, apaixonada por transformar criatividade em soluções orientadas por dados. Trago uma visão multidisciplinar que combina pensamento analítico, sensibilidade visual e foco na experiência do utilizador, elementos que enriquecem minhas análises e abordagens a problemas complexos.
 
-Atualmente, estou em transição de carreira para a área de **tecnologia**, onde aplico minha bagagem visual e experiência com atendimento ao cliente no desenvolvimento de sistemas. Estudo **Java Full Stack** no bootcamp da Generation Brasil, com foco em aplicações web modernas.
+Estou em transição de carreira para a área de tecnologia, com interesse especial em modelagem de dados, análise exploratória, visualização e machine learning. Coloco em prática minha experiência com design e atendimento ao cliente para comunicar insights de forma clara, intuitiva e orientada ao impacto.
 
 ---
 
